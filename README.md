@@ -1,3 +1,1 @@
-# TesteElotech
-# TesteElo
-# TesteElo
+C.R.U.D ESCOLA DE TI
